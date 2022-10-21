@@ -2,6 +2,8 @@
 
 ## The project's demo link: (https://celebrated-froyo-f44333.netlify.app/)
 
+This project was created using create-react-app and youtube api.
+
 ## Available Scripts
 
 In the project directory, you can run:
