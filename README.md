@@ -1,6 +1,6 @@
 # React_Youtube-Clone
 
-## The project's link: (https://celebrated-froyo-f44333.netlify.app/)
+## The project's demo link: (https://celebrated-froyo-f44333.netlify.app/)
 
 ## Available Scripts
 
